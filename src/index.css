@@ -1,0 +1,19 @@
+
+@import 'tailwindcss';
+@layer theme, base, components, utilities;
+*{
+  
+
+
+}
+body{
+ 
+  width: 100vw;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+option{
+  color:rgba(128, 128, 128, 0.644) !important
+}
