@@ -3,7 +3,7 @@ import Filter from './component/Filter.jsx'
 import './App.css'
 import api from './api.jsx'
 import Productcard from './component/Productcard.jsx'
-import { NavItem } from 'react-bootstrap-v5'
+
 function App() {
   //state to store all products
   const [products,setproducts]=useState([])
