@@ -58,7 +58,7 @@ setfilter(data)
   return(
     <div className='mt-10 mx-0 md:mx-18 mb-10 '>
       <div className='my-6 flex flex-col  justify-center items-center gap-4 '>
-<h1 className=' sm:text-4xl md:text-6xl text-gray-400 tracking-tight '>Products</h1>
+<h1 className='xs:text-[17px]  md:text-6xl text-gray-400 tracking-tight '>Products</h1>
 <Filter className=""
 search={search}
 setSearch={setsearch}
